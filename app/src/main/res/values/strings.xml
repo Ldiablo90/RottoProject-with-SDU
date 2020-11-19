@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Rotto_Project</string>
+    <string name="main_text1">랜덤번호로 생성</string>
+    <string name="main_text2">랜덤으로 로또번호를 생성합니다.</string>
+    <string name="main_text3">별자리로 번호 생성</string>
+    <string name="main_text4">별자리로 로또번호를 생성합니다.</string>
+    <string name="main_text5">이름으로 번호 생성</string>
+    <string name="main_text6">이름으로 로또번호를 생성합니다.</string>
+    <string name="this_is_lottonum">로또번호입니다.</string>
+    <string name="constellation_name">별자리</string>
+    <string name="constellation_button">로또번호 확인하기</string>
+    <string name="name_edit">이름을 입력하세요.</string>
+    <string name="name_btn1">번호 생성</string>
+    <string name="name_btn2">뒤로 가기</string>
+</resources>
